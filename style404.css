@@ -1,0 +1,32 @@
+
+
+body {
+background: url(images/straus.jpg) no-repeat center center fixed;
+        -webkit-background-size: 50%;
+        -moz-background-size: 50%;
+        -o-background-size: 50%;
+        background-size: 50%;
+    }
+
+
+    h1 {
+            font-size: 400%; 
+            margin-left: 27%;  
+            color: #FFA500;
+    }
+
+    p {
+        font-size: 200%;
+        margin-left: 15%;
+    }
+
+    button {
+        background-color: #FFA500;
+        margin-left: 25%;
+        width: 10%; 
+       
+        
+        font-weight: bold; 
+        text-transform: uppercase; 
+    }
+    
