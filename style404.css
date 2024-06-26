@@ -24,9 +24,11 @@ background: url(images/straus.jpg) no-repeat center center fixed;
         background-color: #FFA500;
         margin-left: 25%;
         width: 10%; 
-       
-        
         font-weight: bold; 
         text-transform: uppercase; 
+    }
+button {
+        cursor: pointer
+        
     }
     
